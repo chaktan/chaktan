@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Witcher. 👋</h1>
+<h1 align="center">Hi, I'm Çağrı Haktan 👋</h1>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&color=C9D1D9&width=1024&lines=🖥️+I'm+a++developer+with+four+year+of+experience." alt="WitcherDevs"/> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&color=C9D1D9&width=1024&lines=🖥️+I'm+a++developer+with+four+year+of+experience." alt="chaktan"/> </p>
 
-<p align="center"> <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WitcherDevs&theme=tokyonight" /> </p>
+<p align="center"> <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chaktan&theme=tokyonight" /> </p>
 
 <h2 align="center">Languages & Frameworks & Library & Tools</h2>
 <div align="center">
@@ -29,10 +29,6 @@
 </div>
 <br>
 
-<p align="center"> <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitcherDevs&theme=tokyonight" /> </p>
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://discord.gg/users/299955838368612353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="witcher#0001" height="30" width="40" /></a>
+<p align="center"> <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaktan&theme=tokyonight" /> </p>
 </p>
 
