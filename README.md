@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&color=C9D1D9&width=1024&lines=🖥️+I'm+a++developer+with+four+year+of+experience." alt="chaktan"/> </p>
 
-<p align="center"> <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chaktan&theme=tokyonight" /> </p>
+<p align="center"> <img width="40%" src="https://github-stats-extended.vercel.app/api/?username=chaktan&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&number_format=long&show=prs_merged_percentage,prs_reviewed" /> </p>
 
 <h2 align="center">Languages & Frameworks & Library & Tools</h2>
 <div align="center">
